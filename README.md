@@ -17,5 +17,6 @@ Rentable space shows a certain periodic trend with respect to construction dates
 The geospatial visualization provides a bird's-eye view of property distributions, giving insights into federal property concentrations.
 
 # Geospatial Map Visualization
-[View the Geospatial Visualization Map](https://Rveiga84.github.io/realestate/simplified_geospatial_visualization.html)
+[View the Geospatial Visualization Map](https://rveiga84.github.io/realestate/simplified_geospatial_visualization.html)
+
 
