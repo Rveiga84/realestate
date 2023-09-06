@@ -16,5 +16,6 @@ The majority of the properties are leased rather than owned.
 Rentable space shows a certain periodic trend with respect to construction dates.
 The geospatial visualization provides a bird's-eye view of property distributions, giving insights into federal property concentrations.
 
-#Geospatial Map Visualization
-file:///C:/SQLProjects/Real%20Estate/simplified_geospatial_visualization.html
+# Geospatial Map Visualization
+[View the Geospatial Visualization Map](https://Rveiga84.github.io/realestate/simplified_geospatial_visualization.html)
+
