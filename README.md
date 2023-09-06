@@ -15,3 +15,6 @@ Property Distribution: Analysis of the distribution of owned vs. leased properti
 The majority of the properties are leased rather than owned.
 Rentable space shows a certain periodic trend with respect to construction dates.
 The geospatial visualization provides a bird's-eye view of property distributions, giving insights into federal property concentrations.
+
+#Geospatial Map Visualization
+file:///C:/SQLProjects/Real%20Estate/simplified_geospatial_visualization.html
